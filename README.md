@@ -39,9 +39,9 @@ I'm a data scientist, co-founder of a tech community, product manager, CTO for a
 ## Connect with Me
 
 - 📫 How to reach me:
-  - [![Twitter](https://img.shields.io/badge/Twitter-%40sophee_x0-blue)](https://twitter.com/sophee_x0)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bukola%20Ojo-blue)](https://linkedin.com/in/bukola-ojo)
   - [![Email](https://img.shields.io/badge/Email-bukkyojo60%40gmail.com-orange)](mailto:bukkyojo60@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bukola%20Ojo-blue)](https://linkedin.com/in/bukola-ojo)
+  - [![Twitter](https://img.shields.io/badge/Twitter-%40sophee_x0-blue)](https://twitter.com/sophee_x0)
   - [![Blog](https://img.shields.io/badge/Blog-Hashnode-brightgreen)](https://bukola-ojo.hashnode.dev/)
 
 - 😄 Pronouns: tech/girl
