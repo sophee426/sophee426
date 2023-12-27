@@ -1,7 +1,7 @@
 # Hello, I'm Bukola Ojo! 👋
 
 I'm a data scientist, co-founder of a tech community, product manager, CTO for an AI tech startup, and a medical undergraduate based in Nigeria. 
-- Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
+🌱 Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
 
 ## About Me
 
